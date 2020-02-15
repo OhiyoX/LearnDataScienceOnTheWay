@@ -1,5 +1,4 @@
 from die import Die
-import matplotlib.pyplot as plt
 import pygal
 
 # 创建两个D6
