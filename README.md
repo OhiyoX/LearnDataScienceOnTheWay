@@ -1,2 +1,2 @@
-# LearnMatplotlibOnTheWay
- 个人学习matplotlib
+# LearnDataScienceOnTheWay
+ 个人学习matplotlib、pandas
