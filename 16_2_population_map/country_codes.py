@@ -7,6 +7,20 @@ def get_country_code(country_name):
     for code, name in COUNTRIES.items():
         if name == country_name:
             return code
+
+        if country_name == "Hong Kong SAR, China":
+            return 'hk'
+        if country_name == "Korea, Dem. People’s Rep.":
+            return 'kp'
+        if country_name == "Korea, Rep.":
+            return 'kr'
+        if country_name == 'Moldova':
+            return 'md'
+        if country_name == 'Yemen, Rep.':
+            return 'ye'
+        if country_name == 'Viet Nam':
+            return 'vn'
+
     # 如果找到指定的国家，返回None
     return None
 
