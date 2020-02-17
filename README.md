@@ -1,2 +1,2 @@
 # LearnDataScienceOnTheWay
- 个人学习matplotlib、pandas
+ 个人学习matplotlib、pandas、pygal
